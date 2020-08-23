@@ -8,7 +8,7 @@
 - I'm also interested in philosophy, history and biathlon!
 
 ### Now Listening:
-[![Spotify](https://novatorem-snowy.vercel.app /api/spotify)](https://open.spotify.com/user/1246655277)
+[<img src="https://novatorem-snowy.vercel.app /api/spotify" alt="Spotify Now Playing" width=350 />](https://open.spotify.com/user/1246655277)
 
 ### Connect with me:
 
