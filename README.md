@@ -8,7 +8,7 @@
 - I'm also interested in philosophy, history and biathlon!
 
 ### Now Listening:
-[![Spotify](https://ktaze1.vercel.app/api/spotify)](https://open.spotify.com/user/1246655277)
+[![Spotify](novatorem.ktaze1.vercel.app/api/spotify)](https://open.spotify.com/user/1246655277)
 
 ### Connect with me:
 
