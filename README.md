@@ -7,6 +7,9 @@
 - My ultimate goal is to move to Norway for good.
 - I'm also interested in philosophy, history and biathlon!
 
+### Now Listening:
+[![Spotify](https://novatorem-snowy.vercel.app /api/spotify)](https://open.spotify.com/user/1246655277)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
