@@ -1,7 +1,7 @@
 ### Hi there, I'm Kaan 
 
 - I'm interested in Modern C++ (C++17/20/23) and C Language
-- Currently working as a software engineer in Izmir/Turkey at etecube®.
+- Currently working as a software engineer in Izmir/Turkey at ETE Technology®.
 - As of August 2020, I've got my Bachelor's Degree in Computer Engineering.
 - I like networking, multi-threading, template metaprogramming and any other mind-boggling concepts in Computer Science.
 - I'm also interested in philosophy (mostly German Idealists), history, sociology, politics, psychoanalysis and some sports like scuba diving, rollerskiing, biathlon (I'm big fan of Norwegian Team!).
